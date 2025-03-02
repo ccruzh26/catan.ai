@@ -2,7 +2,7 @@
 # Local (editable) installs
 # ---------------------------
 -e ./catanatron_core
--e ./catanatron_experimental
+-e ./catanatron_experimental/catanatron_experimental
 -e ./catanatron_gym
 
 # ---------------------------
