@@ -8,7 +8,7 @@ from catanatron_core.catanatron.game import Game, Color
 from catanatron_experimental.players.mcts import MCTSPlayer
 
 # If you want to also have AlphaBeta as an alternative:
-# from catanatron_core.catanatron.players.alpha_beta import AlphaBetaPlayer
+from catanatron_core.catanatron.players.alpha_beta import AlphaBetaPlayer
 
 app = Flask(__name__)
 
